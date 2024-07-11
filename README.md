@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theprabhatrawat&label=Profile%20views&color=0e75b6&style=flat" alt="theprabhatrawat" /> </p>
 
-- 🔭 I’m currently working on **NewsMania a full fledged News App**
+- 🔭 I’m currently working on **ChatApp a full fledged Chatting App**
 
 - 🌱 I’m currently learning **WebRTC, WebSockets and other MERN technologies along with PHP**
 
